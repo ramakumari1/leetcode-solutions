@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ramakumari1/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramakumari1/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ramakumari1/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/ramakumari1/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramakumari1/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ramakumari1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ramakumari1/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -102,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ramakumari1/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ramakumari1/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
