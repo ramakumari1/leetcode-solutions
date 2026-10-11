@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ramakumari1/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ramakumari1/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/ramakumari1/leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/ramakumari1/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ramakumari1/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ramakumari1/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/ramakumari1/leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/ramakumari1/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -146,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/ramakumari1/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ramakumari1/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/ramakumari1/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
