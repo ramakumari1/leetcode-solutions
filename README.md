@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ramakumari1/leetcode-solutions/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/ramakumari1/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ramakumari1/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ramakumari1/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ramakumari1/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ramakumari1/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ramakumari1/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ramakumari1/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ramakumari1/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ramakumari1/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/ramakumari1/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/ramakumari1/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ramakumari1/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ramakumari1/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/ramakumari1/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ramakumari1/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
