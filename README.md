@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ramakumari1/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ramakumari1/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ramakumari1/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/ramakumari1/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramakumari1/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ramakumari1/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/ramakumari1/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
