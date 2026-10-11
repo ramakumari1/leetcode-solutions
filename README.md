@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramakumari1/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ramakumari1/leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ramakumari1/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ramakumari1/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ramakumari1/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ramakumari1/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ramakumari1/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ramakumari1/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
