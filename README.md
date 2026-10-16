@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ramakumari1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ramakumari1/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramakumari1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ramakumari1/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ramakumari1/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ramakumari1/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ramakumari1/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ramakumari1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ramakumari1/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramakumari1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ramakumari1/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ramakumari1/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ramakumari1/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramakumari1/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ramakumari1/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/ramakumari1/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramakumari1/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/ramakumari1/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ramakumari1/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/ramakumari1/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
